@@ -1,4 +1,4 @@
-As part of the Nand2Tetris coursework (19AIE112 - Elements of Computing 2), We have developed VM Translator program that translates the VM commands to assembly language.
+As part of the Nand2Tetris coursework (19AIE112 - Elements of Computing 2), We have developed a VM Translator program that translates the VM commands to assembly language.
 
 Feel free to use this code as reference. Make sure you are changing the location address of the desired VM command and the generated assembly code.
 
